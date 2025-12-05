@@ -1,4 +1,4 @@
-// /Users/rishabhkhurana/Library/Application Support/Cursor/User/settings.json
+// /Users/<uname>/Library/Application Support/Cursor/User/settings.json
 {
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
