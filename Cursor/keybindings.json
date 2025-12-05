@@ -1,0 +1,21 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "shift+alt+s",
+    "command": "workbench.action.files.saveWithoutFormatting"
+  },
+  {
+    "key": "cmd+k s",
+    "command": "-workbench.action.files.saveWithoutFormatting"
+  },
+  {
+    "key": "ctrl+p",
+    "command": "search.action.focusPreviousSearchResult",
+    "when": "searchViewletVisible && hasSearchResult"
+  },
+  {
+    "key": "ctrl+n",
+    "command": "search.action.focusNextSearchResult",
+    "when": "searchViewletVisible && hasSearchResult"
+  }
+]
